@@ -1,0 +1,22 @@
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.csprojAssemblyReference.cache
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.csproj.CoreCompileInputs.cache
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.AssemblyInfoInputs.cache
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.AssemblyInfo.cs
+/Users/rezzayazme/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.deps.json
+/Users/rezzayazme/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.runtimeconfig.json
+/Users/rezzayazme/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.runtimeconfig.dev.json
+/Users/rezzayazme/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.dll
+/Users/rezzayazme/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.pdb
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.dll
+/Users/rezzayazme/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.pdb
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.deps.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.runtimeconfig.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.runtimeconfig.dev.json
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.dll
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/bin/Debug/netcoreapp2.1/CarClass.pdb
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.csprojAssemblyReference.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.csproj.CoreCompileInputs.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.AssemblyInfoInputs.cache
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.AssemblyInfo.cs
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.dll
+/Users/yassermeza/Documents/Spring 2019 /Object Oriented Systems/CarClass/CarClass/obj/Debug/netcoreapp2.1/CarClass.pdb
